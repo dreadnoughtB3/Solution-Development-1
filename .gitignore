@@ -8,3 +8,4 @@ train/models/*
 train/oof/*
 train/submission/*
 geodata/*
+output.csv
