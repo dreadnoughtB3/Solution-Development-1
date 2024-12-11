@@ -1,0 +1,10 @@
+.vscode
+.ipynb_checkpoints
+.flake8
+log
+log_config.json
+train/data/*
+train/models/*
+train/oof/*
+train/submission/*
+geodata/*
